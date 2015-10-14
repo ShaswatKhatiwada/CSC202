@@ -48,7 +48,7 @@ public class start4 {
   System.out.print(linklist);
 System.out.println("UP1 " + currentCategoryNode.getName());
 System.out.println("UP#" + categories.getCategories());
- 
+ //System.out.println(category.get);
  System.out.println("UP " + currentFoodItem.getName());
        
      
